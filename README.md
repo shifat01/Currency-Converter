@@ -16,7 +16,7 @@ A simple and efficient **Currency Converter** application that allows users to c
 
 ## 📸 Preview
 
-![](images/screenshots/Screenshot_4.png)
+![Cpreview](images/screenshots/Screenshot4.png)
 
 
 ---
@@ -32,7 +32,7 @@ A simple and efficient **Currency Converter** application that allows users to c
 
 - **Frontend:** HTML5, CSS3
 - **Scripting:** JavaScript (ES6+)
-- **API:** 
+- **API:** currencyapi.com
 
 
 
