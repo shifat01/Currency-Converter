@@ -5,11 +5,11 @@ A simple and efficient **Currency Converter** application that allows users to c
 ---
 ## 🚀 Demo
 
-### 🌐 Live demo: [click here](https://digitalclock-shifat01.netlify.app/)
+### 🌐 Live demo: [click here](https://shifat01.github.io/Currency-Converter/)
 
 #### or, 
 
-### link: https://digitalclock-shifat01.netlify.app
+### link: https://shifat01.github.io/Currency-Converter/
 
 >
 ---
