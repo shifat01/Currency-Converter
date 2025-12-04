@@ -16,7 +16,7 @@ A simple and efficient **Currency Converter** application that allows users to c
 
 ## 📸 Preview
 
-![Cpreview](images/screenshots/Screenshot4.png)
+![Cpreview](images/Screenshot4.png)
 
 
 ---
